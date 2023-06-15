@@ -1,3 +1,4 @@
 /node_modules/**/*
 *.json
-/Data/**/*
+/data/contacts.js/
+/contacts.json
